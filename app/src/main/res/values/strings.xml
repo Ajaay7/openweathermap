@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">openweathermap</string>
+    <string name="view">View</string>
+    <string name="city_name">City Name</string>
+    <string name="main_response_text">Lat			: %1$s\n\nLon			: %2$s\n\nCountry			: %3$s\n\nDescription		: %4$s\n\nTemp			: %5$s\n\nHumidity		: %6$s\n\nTemprature Minimum	: %7$s\n\nTemprature Maximum	: %8$s\n\nWind Speed			: %9$s\n\nDeg			: %10$s\n\nDT			: %11$s\n\nCity Name		: %12$s</string>
+    <string name="main_error_text">City not found</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_btn_lookup">Lookup</string>
+    <string name="main_edit_hint">City</string>
+
+</resources>
